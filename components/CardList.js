@@ -9,7 +9,7 @@ const cards = [{
   artistName: 'Pink Floyd',
   recordLabel: 'Harvest Records- UK',
   likes: '904',
-  comments: '68',
+  comments: '98',
   art: 'img/floydwywh.jpg'
 }, {
   title: "NEVERMIND",
@@ -17,8 +17,8 @@ const cards = [{
   artistThumb: 'img/nirvanaThmb.jpg',
   artistName: 'Nirvana',
   recordLabel: 'DGC Records',
-  likes: '645',
-  comments: '86',
+  likes: '895',
+  comments: '96',
   art: 'img/nirvanaNvm.jpg'
 },{
   title: "Ziggy Stardust",
@@ -27,7 +27,7 @@ const cards = [{
   artistName: 'David Bowie',
   recordLabel: 'Trident Studios, London',
   likes: '645',
-  comments: '86',
+  comments: '68',
   art: 'img/bowieTrafozgatsfm.jpg'
 }
 

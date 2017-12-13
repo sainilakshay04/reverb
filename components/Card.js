@@ -42,7 +42,8 @@ export default class Card extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			likes: 123,
+			likes: this.props.likes,
+			comments: this.props.comments,
 			isLiked: false,
 			likeIcon: '/img/heart_active.png'
 		};
