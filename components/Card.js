@@ -45,7 +45,7 @@ export default class Card extends Component {
 			likes: this.props.likes,
 			comments: this.props.comments,
 			isLiked: false,
-			likeIcon: '/img/heart_active.png'
+			likeIcon: '/img/heart_inactive.png'
 		};
 	}
 
@@ -55,13 +55,13 @@ export default class Card extends Component {
 			this.setState({
 				likes: likes - 1,
 				isLiked: !isLiked,
-				likeIcon: 'img/heart_active.png'
+				likeIcon: 'img/heart_inactive.png'
 			});
 		} else {
 			this.setState({
 				likes: likes + 1,
 				isLiked: !isLiked,
-				likeIcon: 'img/heart_inactive.png'
+				likeIcon: 'img/heart_active.png'
 			});
 		}
 	}
