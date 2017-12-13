@@ -21,7 +21,7 @@ const cards = [{
   comments: 96,
   art: 'img/nirvanaNvm.jpg'
 },{
-  title: "Ziggy Stardust",
+  title: "ZIGGY STARDUST",
   description: "Bowie's revolutionary mix of hard rock and glam pop was given an otherwordly look and feel by his coquettish alter ego Ziggy. It's not so much that every act that followed dyed their hair orange in homage to the spidery spaceman; more that they learned the value of creating a 'bubble' of image and presentation that fans could fall in love with.",
   artistThumb: 'img/bowieThmb.jpg',
   artistName: 'David Bowie',
@@ -29,6 +29,15 @@ const cards = [{
   likes: 645,
   comments: 68,
   art: 'img/bowieTrafozgatsfm.jpg'
+},{
+  title: "ARE YOU EXPERIENCED",
+  description: "Looking and playing like a brother from another planet, Hendrix delivered the most dramatic debut in pop history. Marrying blues and psychedelia, dexterity and feedback trickery, it redefined the guitar's sonic possibilities, while beyond the fretboard pyrotechnics burnt a fierce artistic vision. Jimi Hendrix changed the world forever.",
+  artistThumb: 'img/hendrixThmb.jpg',
+  artistName: 'Jimi Hendrix',
+  recordLabel: 'Olympic, London',
+  likes: 900,
+  comments: 98,
+  art: 'img/hendrixAye.jpg'
 }
 
 ]
