@@ -10,4 +10,4 @@ If any problems with running, please clone below instead
 ```
 https://github.com/sainilakshay04/reverb02
 ```
-#### this is made using create-react-app , should work without issues
+#### above is made using create-react-app , should work without issues
